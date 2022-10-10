@@ -1,4 +1,4 @@
-name: Deploy resources using BICEP1
+name: Deploy resources using BICEP
 
 on:
   push:
